@@ -1,0 +1,21 @@
+1)project has been created using angular cli which is installed using the node package manager
+
+
+ npm install -g @angular/cli
+ 
+2)using the command prompt create a project using ng new command
+
+EX: ng new <project name>
+
+3)start the project using ng serve --open command 
+for open on a particular port use --port command 
+
+4)@Component is the decorator used to create the component with the metadata specified like templateurl,template etc attributes
+
+5) typescript is the superset of javascript which is created by the microsoft.
+
+The advantages of the typescript is we can create classes,import and export the classes,interfaces that are created.Allows compile type errors IDE support
+Also the angular 2 documentation is present in the javascript only
+
+6)ngmodule provides a compilation environment for the components it contain
+
